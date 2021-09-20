@@ -1,0 +1,79 @@
+[
+  {
+    "customer": {
+      "firstName": "ori",
+      "lastName": "yafe",
+      "booksBorrowed": [
+        "guy",
+        "a"
+      ]
+    }
+  },
+  {
+    "customer": {
+      "firstName": "reut",
+      "lastName": "bercovitz",
+      "booksBorrowed": []
+    }
+  },
+  {
+    "customer": {
+      "firstName": "kaka",
+      "lastName": "kaka",
+      "booksBorrowed": []
+    }
+  },
+  {
+    "customer": {
+      "firstName": "arad",
+      "lastName": "z",
+      "booksBorrowed": []
+    }
+  },
+  {
+    "customer": {
+      "firstName": "guy",
+      "lastName": "y",
+      "booksBorrowed": []
+    }
+  },
+  {
+    "customer": {
+      "firstName": "itai",
+      "lastName": "be",
+      "booksBorrowed": [
+        "Harry Potter"
+      ]
+    }
+  },
+  {
+    "customer": {
+      "firstName": "idan",
+      "lastName": "levy",
+      "booksBorrowed": []
+    }
+  },
+  {
+    "customer": {
+      "firstName": "admin",
+      "lastName": "admin",
+      "booksBorrowed": []
+    }
+  },
+  {
+    "customer": {
+      "firstName": "guy",
+      "lastName": "yafe",
+      "booksBorrowed": [
+        "yafe"
+      ]
+    }
+  },
+  {
+    "customer": {
+      "firstName": "guy",
+      "lastName": "yafee",
+      "booksBorrowed": []
+    }
+  }
+]
